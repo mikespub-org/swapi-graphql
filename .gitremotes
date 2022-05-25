@@ -1,0 +1,6 @@
+[remote "upstream"]
+	url = https://github.com/graphql/swapi-graphql.git
+	fetch = +refs/heads/*:refs/remotes/upstream/*
+[remote "frontastic"]
+	url = https://github.com/FrontasticGmbH/swapi-graphql.git
+	fetch = +refs/heads/*:refs/remotes/frontastic/*
